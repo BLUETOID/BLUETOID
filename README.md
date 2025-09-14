@@ -1,4 +1,4 @@
-````markdown name=README.md
+markdown name=README.md
 <!--
 Hi! This is your GitHub Profile README.
 Repository name should be exactly your username: BLUETOID/BLUETOID
@@ -136,14 +136,14 @@ Planned:
 ---
 
 ### 🗂️ Structured Repos Suggestion (Future)
-```
+
 bluetoid/
   game-dev-lab/
   discord-bots/
   web-components/
   experiments/
   portfolio/
-```
+
 
 ---
 
