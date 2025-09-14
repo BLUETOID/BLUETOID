@@ -1,4 +1,4 @@
-markdown name=README.md
+
 <!--
 Hi! This is your GitHub Profile README.
 Repository name should be exactly your username: BLUETOID/BLUETOID
@@ -48,45 +48,7 @@ You can edit or trim any section. Comments like this won't be visible.
 
 ---
 
-### 📌 Featured / Personal Projects
-(You can pin these repos on your profile UI)
 
-| Project | What It Is | Next Upgrade Idea |
-|---------|------------|-------------------|
-| [RIMAP](https://github.com/BLUETOID/RIMAP) | (Add a 1–2 line description) | Add README + demo screenshots |
-| [alumni-network-app](https://github.com/BLUETOID/alumni-network-app) | Connects alumni & students | Add authentication + messaging |
-| [Html-projects](https://github.com/BLUETOID/Html-projects) | Practice UI pages | Convert best one to a React component |
-| [password-generator](https://github.com/BLUETOID/password-generator) | Simple password tool | Add strength meter + copy button |
-| [fcc-documentation](https://github.com/BLUETOID/fcc-documentation) | Learning docs clone | Deploy with GitHub Pages |
-
-Planned:
-- Discord KBC Bot (Quiz / Kaun Banega Crorepati style) – scoreboard + lifelines
-- First 2D mini game (Godot): Dodger or Platformer
-- Portfolio website (React + Tailwind or plain HTML/CSS first)
-
----
-
-### 🧠 Current Learning Path
-1. Strengthen fundamentals: clean HTML/CSS layouts → responsive design
-2. JavaScript depth: ES6 modules, DOM patterns, fetch, basic data structures
-3. Version control discipline: branches, meaningful commits, PR workflow
-4. Game dev fundamentals: coordinate systems, delta time, sprites, input
-5. Engine choice start: Godot (fast iteration) + simple Pygame prototypes
-6. Optional: Start C# basics once comfortable → Unity later for 3D
-
----
-
-### 🕹️ Game Dev Starter Roadmap (Actionable)
-| Phase | Focus | Output |
-|-------|-------|--------|
-| Week 1–2 | Godot basics (scene tree, nodes) | A bouncing ball scene |
-| Week 3 | Input + movement | Player moves with arrow keys |
-| Week 4 | Collisions + scoring | Simple collect-the-items game |
-| Week 5–6 | Polish + UI | Start screen + score + restart |
-| Week 7+ | Add juice | Particles, sound, camera shake |
-| After | Publish | Host web export on itch.io / GitHub Pages |
-
----
 
 ### 📈 GitHub Stats
 <p>
@@ -110,52 +72,7 @@ Planned:
 
 ---
 
-### ✅ Next Immediate Actions (You Can Tackle This Week)
-- Add detailed README to each repo (purpose, features, how to run)
-- Start a `game-dev-lab` repo for experiments
-- Build first Godot prototype (1 scene)
-- Refactor password generator: split logic into separate JS file
-- Write 1 short dev log (even a paragraph) in a `logs/` folder
 
----
-
-### 💡 Ideas Backlog
-- Personal portfolio site (dark + minimalist style)
-- Daily coding challenge logging (markdown journal)
-- Interactive quiz engine (reusable for KBC bot)
-- Simple Pygame clone (Snake / Breakout)
-- Sketch → UI conversion challenge (draw > build)
-
----
-
-### 🤝 Open to
-- Collaborating on beginner-friendly web or game projects
-- Feedback on code structure
-- Learning groups / pair programming
-
----
-
-### 🗂️ Structured Repos Suggestion (Future)
-
-bluetoid/
-  game-dev-lab/
-  discord-bots/
-  web-components/
-  experiments/
-  portfolio/
-
-
----
-
-### 📜 Motto / Mindset
-Small consistent projects > waiting for the perfect idea.
-
----
-
-### 🔄 Updating This README
-You can add an automated update section later using a GitHub Action (e.g., recent activity, latest blog posts, etc.).
-
----
 
 Thanks for visiting! ⭐ Feel free to star or suggest improvements.
 <!-- End of README -->
