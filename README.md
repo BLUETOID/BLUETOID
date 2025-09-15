@@ -1,10 +1,3 @@
-
-<!--
-Hi! This is your GitHub Profile README.
-Repository name should be exactly your username: BLUETOID/BLUETOID
-You can edit or trim any section. Comments like this won't be visible.
--->
-
 <h1 align="center">Hi, I'm Rishikesh Tomar (aka Bluetoid) 👋</h1>
 <p align="center">
   <b>2nd Year B.Tech CSE Student | Aspiring Game & App Developer</b><br/>
@@ -15,14 +8,24 @@ You can edit or trim any section. Comments like this won't be visible.
   <img src="https://komarev.com/ghpvc/?username=BLUETOID&style=for-the-badge&color=1e90ff" alt="Profile Views" />
 </p>
 
----
+
 
 ### 🚀 About Me
 - 🎓 B.Tech CSE (2nd Year)
-- 💡 Love building things that people can use: web apps, tools, bots, and (soon) games
+- 💡 Love building things people can use: web apps, tools, bots, and (soon) games
 - 🕹️ Gamer at heart | 🎨 Sketching | 📱 App building | 📚 Reading | 🤖 Discord bots
-- 🎯 Goal: Become a **skilled game developer** (systems + gameplay + tools)
-- 🔭 Currently exploring: clean frontend design, project structuring, and starting game dev fundamentals
+- 🏆 Goal: Become a **skilled game developer** (systems + gameplay + tools)
+- 🔬 Currently exploring: clean frontend design, project structuring, and starting game dev fundamentals
+
+
+
+### 🔥 Featured Projects
+| Name | Description | Link |
+|------|-------------|------|
+| **RIMAP** | Interactive mapping tool | [View Repo](https://github.com/BLUETOID/RIMAP) |
+| **fcc-city-skyline** | City skyline project (freeCodeCamp) | [View Repo](https://github.com/BLUETOID/fcc-city-skyline) |
+| **Html-projects** | Small HTML apps & experiments | [View Repo](https://github.com/BLUETOID/Html-projects) |
+| **alumni-network-app** | Alumni network platform | [View Repo](https://github.com/BLUETOID/alumni-network-app) |
 
 ---
 
@@ -46,14 +49,12 @@ You can edit or trim any section. Comments like this won't be visible.
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git" />
 </p>
 
----
 
 
-
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BLUETOID&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=BLUETOID&theme=tokyonight" alt="GitHub Streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=BLUETOID&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLUETOID&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -61,19 +62,17 @@ You can edit or trim any section. Comments like this won't be visible.
 
 <!-- If any stat cards fail sometimes (rate limits), that's normal. -->
 
----
+
 
 ### 📬 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/rishikesh-tomar-618545321/"><img src="https://img.shields.io/badge/LinkedIn-Rishikesh%20Tomar-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/BLUETOID267700"><img src="https://img.shields.io/badge/X-@BLUETOID267700-000000?logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-bluetoid-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/users/BLUETOID"><img src="https://img.shields.io/badge/Discord-bluetoid-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
----
 
 
+> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House
 
 Thanks for visiting! ⭐ Feel free to star or suggest improvements.
-<!-- End of README -->
-````
