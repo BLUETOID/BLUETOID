@@ -24,6 +24,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Building+the+Future+One+Line+at+a+Time;Game+Developer+in+the+Making;Always+Learning%2C+Always+Growing;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=1E90FF&background=00000000&center=true&vCenter=true&width=650&lines=Building+the+Future+One+Line+at+a+Time;Game+Developer+in+the+Making;Always+Learning%2C+Always+Growing;Turning+Coffee+into+Code+%E2%98%95;Coding+Life+in+Progress...;Leveling+Up+Every+Day" alt="Typing SVG" />
+</p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
