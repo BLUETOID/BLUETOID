@@ -29,27 +29,29 @@
 
 ---
 
-### 🛠️ Tech & Tools (Current Stack)
-| Category | Tools |
-|---------|-------|
-| Languages | C, Python, JavaScript, (learning more) |
-| Web Core | HTML, CSS |
-| Frontend Expansion Targets | React, TypeScript (next steps) |
-| Game Dev (Planned) | Godot (GDScript), Unity (C# later), Pygame (for fundamentals) |
-| Dev Basics | Git & GitHub, VS Code |
-| Other Interests | Discord Bot APIs, Algorithms, UI/UX basics |
-
-<!-- Badges (optional visual flavor) -->
-<p>
-  <img src="https://img.shields.io/badge/Code-C-blue?style=flat-square" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git" />
+### ⚡ Dynamic Developer Stats
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Building+the+Future+One+Line+at+a+Time;Game+Developer+in+the+Making;Always+Learning%2C+Always+Growing;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
 </p>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BLUETOID&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLUETOID&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+### 💡 Fun Facts About Me
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
 <p>
