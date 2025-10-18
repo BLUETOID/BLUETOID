@@ -19,15 +19,6 @@
 
 
 
-### 🔥 Featured Projects
-| Name | Description | Link |
-|------|-------------|------|
-| **RIMAP** | Interactive mapping tool | [View Repo](https://github.com/BLUETOID/RIMAP) |
-| **fcc-city-skyline** | City skyline project (freeCodeCamp) | [View Repo](https://github.com/BLUETOID/fcc-city-skyline) |
-| **Html-projects** | Small HTML apps & experiments | [View Repo](https://github.com/BLUETOID/Html-projects) |
-| **alumni-network-app** | Alumni network platform | [View Repo](https://github.com/BLUETOID/alumni-network-app) |
-
----
 
 ### ⚡ Dynamic Developer Stats
 <p align="center">
