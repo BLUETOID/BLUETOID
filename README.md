@@ -49,7 +49,6 @@
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
   <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
-  <img src="https://forthebadge.com/images/badges/code-is-fun.svg" alt="Code is Fun" />
 </p>
 
 
@@ -78,9 +77,7 @@
   <a href="https://discord.com/users/BLUETOID">
     <img src="https://img.shields.io/badge/Discord-bluetoid-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
-  <a href="mailto:rishikesh@example.com">
-    <img src="https://img.shields.io/badge/Email-rishikesh@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
 </p>
 
 ---
