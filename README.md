@@ -24,7 +24,7 @@
 ### 🚀 About Me
 - 🎓 **B.Tech in Computer Science & Engineering** (2nd Year)  
 - 💡 I love building things people can use: **web apps, tools, bots, and games**  
-- 🕹️ Passionate about **game development**, app building, and creating Discord bots  
+- 🕹️ Passionate about **game development**, **application development**, and creating Discord bots  
 - 🏆 **Goal:** Become a skilled game developer specializing in systems, gameplay, and tooling  
 - 🔬 **Currently exploring:** Clean frontend design, project architecture, and game development fundamentals  
 - 🎨 **Interests:** Gaming, sketching, reading, and continuous learning  
@@ -75,7 +75,7 @@
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House
+  <i>"Code is like humor. When you have to explain it, it's bad."</i> &mdash; Cory House
 </p>
 
 <p align="center">
