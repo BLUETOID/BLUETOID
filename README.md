@@ -1,12 +1,12 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5, #00f0ff); -webkit-background-clip: text; color: transparent;">
-    Hi, I'm Rishikesh Tomar (aka Bluetoid) 👋
+    Hi, I'm Rishikesh Tomar (Bluetoid) 👋
   </span>
 </h1>
 
 <p align="center">
-  <b>2nd Year B.Tech CSE Student | Aspiring Game & App Developer</b><br/>
-  Turning ideas into interactive experiences.
+  <b>B.Tech CSE Student | Game & App Developer</b><br/>
+  Transforming ideas into interactive experiences through code.
 </p>
 
 <p align="center">
@@ -16,17 +16,18 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&multicolor=true&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Building+the+Future+One+Line+at+a+Time;%F0%9F%8E%B9+Game+Developer+in+the+Making;%E2%9C%8F%EF%B8%8F+Always+Learning,+Always+Growing;%E2%98%95+Turning+Coffee+into+Code;%F0%9F%92%BB+Coding+Life+in+Progress...;%F0%9F%92%AA+Leveling+Up+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&multicolor=true&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Building+the+Future+One+Line+at+a+Time;%F0%9F%8E%AE+Game+Developer+%7C+Problem+Solver;%F0%9F%9A%80+Creating+Interactive+Experiences;%F0%9F%93%9A+Continuous+Learner+%26+Builder;%F0%9F%92%AA+Leveling+Up+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 **B.Tech CSE (2nd Year)**  
-- 💡 love to build things people can use: web apps, tools, bots, and games  
-- 🕹️ Gamer | 🎨 Sketching | 📱 App building | 📚 Reading | 🤖 Discord bots  
-- 🏆 Goal: Become a **skilled game developer** (systems + gameplay + tools)  
-- 🔬 Currently exploring: clean frontend design, project structuring, and game dev fundamentals  
+- 🎓 **B.Tech in Computer Science & Engineering** (2nd Year)  
+- 💡 I love building things people can use: **web apps, tools, bots, and games**  
+- 🕹️ Passionate about **game development**, app building, and creating Discord bots  
+- 🏆 **Goal:** Become a skilled game developer specializing in systems, gameplay, and tooling  
+- 🔬 **Currently exploring:** Clean frontend design, project architecture, and game development fundamentals  
+- 🎨 **Interests:** Gaming, sketching, reading, and continuous learning  
 
 ---
 
@@ -41,16 +42,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLUETOID&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
----
-
-### 💡 Fun Facts About Me
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
-</p>
-
 
 ---
 
@@ -80,8 +71,13 @@
   
 </p>
 
+
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House  
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House
+</p>
 
-<p align="center">⭐ Thanks for visiting! Feel free to star or suggest improvements.</p>
+<p align="center">
+  ⭐ Thanks for visiting! Feel free to explore my projects and connect with me.
+</p>
