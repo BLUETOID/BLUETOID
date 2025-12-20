@@ -79,5 +79,5 @@
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting! Feel free to explore my projects and connect with me.
+   Thanks for visiting! Feel free to explore my projects and connect with me.
 </p>
