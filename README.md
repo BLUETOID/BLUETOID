@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5, #00f0ff); -webkit-background-clip: text; color: transparent;">
-    Hi, I'm Rishikesh Tomar (Bluetoid) 👋
+    Hi, I'm Rishikesh Tomar (Bluetoid) 
   </span>
 </h1>
 
