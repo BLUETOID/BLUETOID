@@ -38,10 +38,7 @@
 
 ---
 
-###  Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLUETOID&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+
 
 ---
 
