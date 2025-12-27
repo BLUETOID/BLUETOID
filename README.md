@@ -39,9 +39,6 @@
 ---
 
 
-
----
-
 ###  GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BLUETOID&show_icons=true&theme=radical&count_private=true&rank_icon=github" alt="GitHub Stats" />
