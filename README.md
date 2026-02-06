@@ -21,15 +21,9 @@
 
 ---
 
-###  About Me
--  **B.Tech in Computer Science & Engineering** (2nd Year)  
--  I love building things people can use: **web apps, tools, bots, and games**  
--  Passionate about **game development**, **application development**, and creating Discord bots  
--  **Goal:** Become a skilled game developer specializing in systems, gameplay, and tooling  
--  **Currently exploring:** Clean frontend design, project architecture, and game development fundamentals  
--  **Interests:** Gaming, sketching, reading, and continuous learning  
+  ![snake gif](https://github.com/BLUETOID/BLUETOID/blob/output/github-snake-dark.svg)
 
----
+
 
 ### GitHub Trophies
 <p align="center">
