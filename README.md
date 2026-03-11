@@ -13,7 +13,6 @@
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=BLUETOID&style=for-the-badge&color=7873f5&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/BLUETOID?style=for-the-badge&color=ff6ec4&label=FOLLOWERS" />
 
 </div>
 
