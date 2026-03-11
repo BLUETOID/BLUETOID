@@ -164,7 +164,7 @@ fun_fact:   I turn coffee into code and ideas into playable worlds ☕🎮
 
 <br/><br/>
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> *"The impediment to action advances action. What stands in the way becomes the way."* — Marcus Aurelius 
 
 <br/>
 
