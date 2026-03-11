@@ -168,7 +168,6 @@ fun_fact:   I turn coffee into code and ideas into playable worlds ☕🎮
 
 <br/>
 
-**Thanks for visiting! ⭐ Star a repo if you find it interesting.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7873f5,100:ff6ec4&height=120&section=footer" />
 
