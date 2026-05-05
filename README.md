@@ -1,13 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,50:ff6ec4,100:00f0ff&height=200&section=header&text=Rishikesh%20Tomar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Bluetoid%20%E2%80%A2%20B.Tech%20CSE&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00F0FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Building+the+Future+One+Line+at+a+Time;%F0%9F%8E%AE+Game+Developer+%7C+Problem+Solver;%F0%9F%9A%80+Creating+Interactive+Experiences;%F0%9F%93%9A+Continuous+Learner+%26+Builder;%F0%9F%92%AA+Leveling+Up+Every+Day" />
-</a>
-
 <br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
@@ -68,68 +60,6 @@ fun_fact:   I turn coffee into code and ideas into playable worlds ☕🎮
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BLUETOID&show_icons=true&theme=radical&rank_icon=github&border_radius=12" />
-  <img height="170" src="https://streak-stats.demolab.com?user=BLUETOID&theme=radical&border_radius=12" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLUETOID&layout=compact&theme=radical&border_radius=12" />
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=BLUETOID&theme=redical&area=true&hide_border=false&radius=12" />
-</div>
-
-
----
-
-## ⚔️ Competitive Programming
-
-
-
-### 🟡 LeetCode
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/BLUETOID?theme=dark&font=Karma&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
-</div>
-
-<br/>
-
-### 🔵 Codeforces
-<div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bluetoid&theme=dark&show_icons=true&force_username=true&border_radius=12" alt="Codeforces Stats" />
-</div>
-
-
-<br/>
-
-### 🟠 CodeChef &nbsp;|&nbsp; 🟣 HackerRank &nbsp;|&nbsp; 🔴 AtCoder &nbsp;|&nbsp; 🟤 CodeStudio
-
-<div align="center">
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-bluetoid-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bluetoid)
-[![HackerRank](https://img.shields.io/badge/HackerRank-rishikeshtomar91-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rishikeshtomar91)
-[![AtCoder](https://img.shields.io/badge/AtCoder-Bluetoid-1F8AC0?style=for-the-badge&logoColor=white)](https://atcoder.jp/users/Bluetoid)
-[![CodeStudio](https://img.shields.io/badge/Code360-bluetoid-F7941D?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/bluetoid)
-
-</div>
-
-<br/>
-
-### 📋 All Profiles at a Glance
-
-<div align="center">
-
-| Platform | Username | Link |
-|:---:|:---:|:---:|
-| 🟡 LeetCode | `BLUETOID` | [Visit →](https://leetcode.com/u/BLUETOID) |
-| 🔵 Codeforces | `bluetoid` | [Visit →](https://codeforces.com/profile/bluetoid) |
-| 🟠 CodeChef | `bluetoid` | [Visit →](https://www.codechef.com/users/bluetoid) |
-| 🟢 GeeksForGeeks | `bluetoid` | [Visit →](https://www.geeksforgeeks.org/user/bluetoid) |
-| 🟣 HackerRank | `rishikeshtomar91` | [Visit →](https://www.hackerrank.com/profile/rishikeshtomar91) |
-| 🔴 AtCoder | `Bluetoid` | [Visit →](https://atcoder.jp/users/Bluetoid) |
-| 🟤 CodeStudio | `bluetoid` | [Visit →](https://www.naukri.com/code360/profile/bluetoid) |
-
-</div>
 
 ---
 
@@ -145,30 +75,16 @@ fun_fact:   I turn coffee into code and ideas into playable worlds ☕🎮
 
 <br/>
 
-**Competitive Programming**
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-BLUETOID-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/BLUETOID)
-[![Codeforces](https://img.shields.io/badge/Codeforces-bluetoid-1F8AC0?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/bluetoid)
-[![CodeChef](https://img.shields.io/badge/CodeChef-bluetoid-5B4638?logo=codechef&logoColor=white&style=for-the-badge)](https://www.codechef.com/users/bluetoid)
-[![HackerRank](https://img.shields.io/badge/HackerRank-rishikeshtomar91-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/rishikeshtomar91)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-bluetoid-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/bluetoid)
-[![AtCoder](https://img.shields.io/badge/AtCoder-Bluetoid-1F8AC0?style=for-the-badge)](https://atcoder.jp/users/Bluetoid)
 
 </div>
 
 ---
 
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br/><br/>
-
-> *"The impediment to action advances action. What stands in the way becomes the way."* — Marcus Aurelius 
+"*Be rational*"
 
 <br/>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7873f5,100:ff6ec4&height=120&section=footer" />
 
 </div>
