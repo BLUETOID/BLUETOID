@@ -1,14 +1,4 @@
-<div align="center">
 
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=BLUETOID&style=for-the-badge&color=7873f5&label=PROFILE+VIEWS" />
-&nbsp;
-
-</div>
-
----
 
 ## 👾 About Me
 
@@ -21,7 +11,6 @@ currently:  Building interactive experiences & grinding DSA 💪
 fun_fact:   I turn coffee into code and ideas into playable worlds ☕🎮
 ```
 
----
 
 ## 🐍 Contribution Snake
 
@@ -33,7 +22,6 @@ fun_fact:   I turn coffee into code and ideas into playable worlds ☕🎮
   </picture>
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -58,10 +46,6 @@ fun_fact:   I turn coffee into code and ideas into playable worlds ☕🎮
 
 </div>
 
----
-
-
----
 
 ## 🤝 Connect With Me
 
@@ -74,7 +58,13 @@ fun_fact:   I turn coffee into code and ideas into playable worlds ☕🎮
 [![Discord](https://img.shields.io/badge/Discord-bluetoid-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/BLUETOID)
 
 <br/>
+<div align="center">
 
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=BLUETOID&style=for-the-badge&color=7873f5&label=PROFILE+VIEWS" />
+&nbsp;
+
+</div>
 
 </div>
 
