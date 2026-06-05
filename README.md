@@ -7,8 +7,7 @@ name:       Rishikesh Tomar (Bluetoid)
 role:       B.Tech CSE Student & Developer
 location:   India 🇮🇳
 focus:      Game Dev · Web Dev · Bot Development · Competitive Programming
-currently:  Building interactive experiences & grinding DSA 💪
-fun_fact:   I turn coffee into code and ideas into playable worlds ☕🎮
+currently:  Building interactive experiences & grinding DSA 
 ```
 
 
