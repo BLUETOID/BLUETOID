@@ -11,7 +11,7 @@ currently:  Building interactive experiences & grinding DSA
 ```
 
 
-##  Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
